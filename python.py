@@ -1,1 +1,2 @@
 print("abyssinia")
+print("ethiopia")
